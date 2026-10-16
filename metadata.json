@@ -1,0 +1,6 @@
+{
+  "name": "CampusAssist - AI Student Helpdesk",
+  "description": "Intelligent student helpdesk chatbot answering queries on courses, internships, deadlines, and academic certificates with real-time AI and a test benchmark suite.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
